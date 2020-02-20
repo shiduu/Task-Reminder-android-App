@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "741678980357",
+    "firebase_url": "https://task-reminder-a70a0.firebaseio.com",
+    "project_id": "task-reminder-a70a0",
+    "storage_bucket": "task-reminder-a70a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741678980357:android:e8fd183cabbd8f59",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnylJHwdLN1dUVEvrH9SNJHw6P6iFtZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741678980357:android:007103fb55672a77",
+        "android_client_info": {
+          "package_name": "com.example.taskremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnylJHwdLN1dUVEvrH9SNJHw6P6iFtZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741678980357:android:c3eaab0e31c559d6",
+        "android_client_info": {
+          "package_name": "com.example.taskreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnylJHwdLN1dUVEvrH9SNJHw6P6iFtZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741678980357-v6lvfsvdsha8lm2bilfdusss6hcll1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
